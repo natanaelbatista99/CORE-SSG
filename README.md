@@ -87,15 +87,15 @@ sudo ln -s  /usr/local/lib/python3.8/dist-packages/numpy/core/include/numpy /usr
 
 ## References
 <a id="1">[1]</a> 
-Ricardo J. G. B. Campello, Davoud Moulavi, Arthur Zimek, Joerg Sander. 
-Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection.
-ACM Trans. Knowl. Discov. Data 10(1): 5:1-5:51 (2015)
-
-<a id="2">[2]</a> 
 Breunig, M.M., Kriegel, H.P., Kr ̈oger, P., Sander, J.: Data bubbles: Quality pre-
 serving performance boosting for hierarchical clustering. In: Proceedings of the
 2001 ACM SIGMOD international conference on Management of data. pp. 79–90
-(2001
+(2001)
+
+<a id="2">[2]</a> 
+Ricardo J. G. B. Campello, Davoud Moulavi, Arthur Zimek, Joerg Sander. 
+Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection.
+ACM Trans. Knowl. Discov. Data 10(1): 5:1-5:51 (2015)
 
 <a id="3">[3]</a> 
 Neto, A.C.A., Naldi, M.C., Campello, R.J.G.B., Sander, J.: Core-sg: Efficient
