@@ -1,6 +1,6 @@
 # SCore-SG: Efficient density-based models for multiple clustering solutions over large datasets
 
-This repository contains the code corresponding to the techniques proposed and discussed in the manuscript **"SCore-SG: Efficient density-based models for multiple clustering solutions over large datasets"**, submitted to VLDB'22, as well as the instructions to reproduce the results reported in the paper.
+This repository contains the code corresponding to the techniques proposed and discussed in the manuscript **"SCore-SG: Efficient density-based models for multiple clustering solutions over large datasets"**, submitted to 12th Brazilian Conference on Intelligent Systems, as well as the instructions to reproduce the results reported in the paper.
 
 This implementation uses Cython to improve the performance of many operations that would be otherwise very inefficient if implemented with only Python. This short guide includes the 4 steps needed to reproduce the results reported in the paper: 
 1. [Installation](#installation)
