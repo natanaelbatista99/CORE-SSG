@@ -74,8 +74,7 @@ To run the tests corresponding to the summarized version using coresg databubble
 
 From the `.results` generated in section 3, the `matplotlib` library was used to generate the graphs presented in the paper.
 
-The histograms and clusters generated in section 3 were based on HDBSCAN plots.
-
+The histograms and clusters presented in the paper were based on HDBSCAN plots.
 
 ## - <a id="troubleshooting"></a> Troubleshooting
 
